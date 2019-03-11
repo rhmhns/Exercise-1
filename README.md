@@ -14,7 +14,7 @@ a	{size: 16;
 	font-family: helvetica;}
 <title> Welcome </title>
 </head>
-<body "background-color=#FF5733">
+<body color=#FF5733>
 <h3> SELAMAT DATANG DI PROFIL KU </h3>
 <hr>
 <h5> SITTI RAHMAH NUR </h5>
